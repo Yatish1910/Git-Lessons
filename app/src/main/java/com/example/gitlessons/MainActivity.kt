@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         val i  = 0
         val j = i + i
+        val k = j+1
     }
 }
