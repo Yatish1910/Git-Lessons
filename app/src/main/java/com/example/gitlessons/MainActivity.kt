@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         val asdad: Int? = null
         val adasdas:Int? = null
+        val asddsdad: Int? = null
     }
 }
